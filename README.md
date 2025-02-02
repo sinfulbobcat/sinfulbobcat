@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Shit Castle<br>🌱 I’m currently learning Godot and Video editing<br>💬 Ask me about anything<br>⚡ Fun fact: butterflies have 4 wings
+🔭 I’m currently working on <b>Merlin</b><br>🌱 I’m currently learning Godot and Video editing<br>💬 Ask me about anything<br>⚡ Fun fact: butterflies have 4 wings
 
 
 ## 🌐 Socials:
