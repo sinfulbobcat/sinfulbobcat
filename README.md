@@ -8,6 +8,8 @@ Welcome to my GitHub! I'm a game developer building expansive worlds with **Redo
 - **Tools:** Redot Engine, Blender, Photoshop, Git
 
 ## 🌟 Featured Projects
+- **[Zed-Editor-PPA](https://github.com/sinfulbobcat/zed-editor-ppa)**
+  A PPA that I maintain.
 - **[Rumbo](https://github.com/bonsaipropaganda/advjam2023)**  
   A small game I worked on [Tech: Redot, GDScript]  
 - **[DissapointedNPC](https://xa98kx.github.io/playgame)**  
